@@ -5,6 +5,7 @@ function navbar() {
     return (
         <div id="navbar">
             <Link to="/">Home</Link>
+            <Link to="/rainbow">Rainbow</Link>
             <Link to="/blue">Blue</Link>
             <Link to="/red">Red</Link>
             <Link to="/bisque">Bisque</Link>
