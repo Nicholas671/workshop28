@@ -2,7 +2,7 @@ import React from 'react'
 
 function Rainbow() {
     return (
-        <div className="rainbow">Rainbow</div>
+        <div className="rainbow"><h1>Rainbow</h1></div>
     )
 }
 

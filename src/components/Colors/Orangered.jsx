@@ -2,7 +2,7 @@ import React from 'react'
 
 function Orangered() {
     return (
-        <div className="orangered">Orangered</div>
+        <div className="orangered"><h1>Orangered</h1></div>
     )
 }
 
